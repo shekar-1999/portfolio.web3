@@ -1,7 +1,7 @@
 import React from 'react';
-import Skills1 from '../components/Skills1';
-import Skills2 from '../components/Skills2';
-import Otherskills from '../components/pages/otherskills';
+import Skills1 from './pages/Skills1';
+import Skills2 from './pages/Skills2';
+import Otherskills from './pages/Otherskills';
 
 const Skills = () => {
   return (
